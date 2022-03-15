@@ -1,0 +1,23 @@
+.preview {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-between;
+    width: 95%;
+    height: 80px;
+    padding: 1rem;
+    margin-bottom: 4rem;
+    background-color: rgba(1, 12, 63, 0.7);
+    box-shadow: 0 4px 2px 2px #000000;
+}
+
+.trackinfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+audio {
+    width: 70%;
+    align-self: flex-end;
+}
