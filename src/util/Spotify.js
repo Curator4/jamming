@@ -1,5 +1,5 @@
 const clientID = "5e03005db21c4710b38f2a87d0f3a582";
-const redirectURI = "http://jamming-curator.surge.sh";
+const redirectURI = "http://jamming-curator.netlify.app";
 let accessToken;
 const Spotify = {
   getAccessToken() {
