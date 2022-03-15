@@ -2,7 +2,7 @@
 This is my implementation of the Code Academy Project: Jamming.
 
 ## Hosted
-The project is currently hosted on http://http://jamming-curator.surge.sh/
+The project is currently hosted on http://jamming-curator.surge.sh/
 (might be down later)
 
 ### Extra Feature
